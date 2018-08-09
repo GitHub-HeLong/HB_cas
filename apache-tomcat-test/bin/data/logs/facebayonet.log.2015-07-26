@@ -1,0 +1,96 @@
+[INFO ] [15:31:15] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+[INFO ] [15:31:15] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from class path resource [properties/mongodb.properties]
+[INFO ] [15:31:16] com.lts.job.manager.util.PropertyConfigUtil - get propertiesPath=properties/config.properties
+[INFO ] [15:31:16] com.lts.job.manager.util.PropertyConfigUtil - get url=file:/D:/apache-tomcat-8.0.23/webapps/FaceBayonet/WEB-INF/classes/properties/config.properties
+[INFO ] [15:31:16] org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@677ffe93: startup date [Sun Jul 26 15:31:16 CST 2015]; root of context hierarchy
+[INFO ] [15:31:16] com.lts.job.core.cluster.JobNode - 当前节点配置:{"clusterName":"defaultCluster","filePath":"C:\\Users\\admin/.lts/CLIENT/test_trade_TaskTracker/","identity":"14BB2B45C454417CAA8F2652455E01EB","invokeTimeoutMillis":6000,"jobInfoSavePath":"C:\\Users\\admin/.lts","listenPort":0,"nodeGroup":"test_trade_TaskTracker","nodeType":"CLIENT","workThreads":4,"zookeeperAddress":"10.0.10.208:2181"}
+[INFO ] [15:31:16] org.I0Itec.zkclient.ZkEventThread - Starting ZkClient event thread.
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:host.name=WIN-86K42MKAP99
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.version=1.7.0_17
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.vendor=Oracle Corporation
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.home=C:\Program Files\Java\jdk1.7.0_17\jre
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.class.path=D:\apache-tomcat-8.0.23\bin\bootstrap.jar;D:\apache-tomcat-8.0.23\bin\tomcat-juli.jar
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.library.path=C:\Program Files\Java\jdk1.7.0_17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_17\bin;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\apache-maven-3.2.1\bin;D:\apache-tomcat-8.0.23\lib;D:\apache-tomcat-8.0.23\bin;C:\Program Files\TortoiseSVN\bin;.
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.io.tmpdir=D:\apache-tomcat-8.0.23\temp
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:java.compiler=<NA>
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:os.name=Windows 8
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:os.arch=amd64
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:os.version=6.2
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:user.name=admin
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:user.home=C:\Users\admin
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Client environment:user.dir=D:\apache-tomcat-8.0.23\bin
+[INFO ] [15:31:16] org.apache.zookeeper.ZooKeeper - Initiating client connection, connectString=10.0.10.208:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@3791634
+[INFO ] [15:31:16] org.apache.zookeeper.ClientCnxn - Opening socket connection to server 10.0.10.208/10.0.10.208:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO ] [15:31:16] org.apache.zookeeper.ClientCnxn - Socket connection established to 10.0.10.208/10.0.10.208:2181, initiating session
+[INFO ] [15:31:16] org.apache.zookeeper.ClientCnxn - Session establishment complete on server 10.0.10.208/10.0.10.208:2181, sessionid = 0x14ec92f15d60008, negotiated timeout = 30000
+[INFO ] [15:31:16] org.I0Itec.zkclient.ZkClient - zookeeper state changed (SyncConnected)
+[INFO ] [15:31:17] com.lts.job.core.cluster.NodeManager - 添加节点Node{path='/LTS/defaultCluster/NODES/JOB_TRACKER/JOB_TRACKER:\\10.0.10.208:35002?group=jobTrackerGroup&threads=4&identity=54820C5E3A8C4F90B2CD99C3F1FD5D2B&createTime=1437895280866&isAvailable=true&listenNodeTypes=CLIENT,TASK_TRACKER,JOB_TRACKER', isAvailable=true, nodeType=JOB_TRACKER, ip='10.0.10.208', port=35002, group='jobTrackerGroup', createTime=1437895280866, threads=4, identity='54820C5E3A8C4F90B2CD99C3F1FD5D2B', listenNodeTypes=[CLIENT, TASK_TRACKER, JOB_TRACKER]}
+[INFO ] [15:31:17] com.lts.job.core.cluster.NodeManager - 添加节点Node{path='/LTS/defaultCluster/NODES/CLIENT/CLIENT:\\192.168.100.55?group=test_trade_TaskTracker&threads=4&identity=14BB2B45C454417CAA8F2652455E01EB&createTime=1437895876191&isAvailable=true&listenNodeTypes=JOB_TRACKER,CLIENT', isAvailable=true, nodeType=CLIENT, ip='192.168.100.55', port=null, group='test_trade_TaskTracker', createTime=1437895876191, threads=4, identity='14BB2B45C454417CAA8F2652455E01EB', listenNodeTypes=[JOB_TRACKER, CLIENT]}
+[INFO ] [15:31:17] com.lts.job.core.cluster.MasterElector - Master节点变化为当前节点:/LTS/defaultCluster/NODES/CLIENT/CLIENT:\\192.168.100.55?group=test_trade_TaskTracker&threads=4&identity=14BB2B45C454417CAA8F2652455E01EB&createTime=1437895876191&isAvailable=true&listenNodeTypes=JOB_TRACKER,CLIENT
+[INFO ] [15:31:17] com.lts.job.core.cluster.JobNode - 启动成功!
+[INFO ] [15:31:17] LTSRemoting - createChannel: begin to connect remote host[10.0.10.208:35002] asynchronously
+[INFO ] [15:31:17] LTSRemoting - NETTY CLIENT PIPELINE: CONNECT  UNKNOW => /10.0.10.208:35002
+[INFO ] [15:31:17] LTSRemoting - createChannel: connect remote host[10.0.10.208:35002] success, DefaultChannelPromise@416ea6ac(success)
+[INFO ] [15:31:17] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2889 ms
+[ERROR] [15:31:46] com.lts.job.core.support.RetryScheduler - 
+java.lang.NullPointerException
+	at com.lts.job.core.support.LevelDBStore.close(LevelDBStore.java:92)
+	at com.lts.job.core.support.RetryScheduler$CheckRunner.run(RetryScheduler.java:111)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+[ERROR] [15:32:16] com.lts.job.core.support.RetryScheduler - 
+java.nio.channels.OverlappingFileLockException
+	at sun.nio.ch.SharedFileLockTable.checkList(FileLockTable.java:255)
+	at sun.nio.ch.SharedFileLockTable.add(FileLockTable.java:152)
+	at sun.nio.ch.FileChannelImpl.tryLock(FileChannelImpl.java:1017)
+	at java.nio.channels.FileChannel.tryLock(FileChannel.java:1154)
+	at com.lts.job.core.file.FileAccessor.tryLock(FileAccessor.java:240)
+	at com.lts.job.core.support.RetryScheduler$CheckRunner.run(RetryScheduler.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+[INFO ] [15:32:41] com.lts.job.core.cluster.NodeManager - 添加节点Node{path='/LTS/defaultCluster/NODES/CLIENT/CLIENT:\\192.168.100.55?group=test_trade_TaskTracker&threads=4&identity=16FE501185B140829DDD82C10AF29A30&createTime=1437895960594&isAvailable=true&listenNodeTypes=JOB_TRACKER,CLIENT', isAvailable=true, nodeType=CLIENT, ip='192.168.100.55', port=null, group='test_trade_TaskTracker', createTime=1437895960594, threads=4, identity='16FE501185B140829DDD82C10AF29A30', listenNodeTypes=[JOB_TRACKER, CLIENT]}
+[ERROR] [15:32:46] com.lts.job.core.support.RetryScheduler - 
+java.nio.channels.OverlappingFileLockException
+	at sun.nio.ch.SharedFileLockTable.checkList(FileLockTable.java:255)
+	at sun.nio.ch.SharedFileLockTable.add(FileLockTable.java:152)
+	at sun.nio.ch.FileChannelImpl.tryLock(FileChannelImpl.java:1017)
+	at java.nio.channels.FileChannel.tryLock(FileChannel.java:1154)
+	at com.lts.job.core.file.FileAccessor.tryLock(FileAccessor.java:240)
+	at com.lts.job.core.support.RetryScheduler$CheckRunner.run(RetryScheduler.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)
+[ERROR] [15:33:16] com.lts.job.core.support.RetryScheduler - 
+java.nio.channels.OverlappingFileLockException
+	at sun.nio.ch.SharedFileLockTable.checkList(FileLockTable.java:255)
+	at sun.nio.ch.SharedFileLockTable.add(FileLockTable.java:152)
+	at sun.nio.ch.FileChannelImpl.tryLock(FileChannelImpl.java:1017)
+	at java.nio.channels.FileChannel.tryLock(FileChannel.java:1154)
+	at com.lts.job.core.file.FileAccessor.tryLock(FileAccessor.java:240)
+	at com.lts.job.core.support.RetryScheduler$CheckRunner.run(RetryScheduler.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:722)

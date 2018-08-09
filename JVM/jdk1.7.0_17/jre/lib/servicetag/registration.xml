@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>2011-20140412IW</hostname>
+      <hostId/>
+      <osName>Windows 7</osName>
+      <osVersion>6.1</osVersion>
+      <osArchitecture>x86</osArchitecture>
+      <systemModel>B85M-DS3H</systemModel>
+      <systemManufacturer>Gigabyte Technology Co., Ltd.</systemManufacturer>
+      <cpuManufacturer>GenuineIntel</cpuManufacturer>
+      <serialNumber>To be filled by O.E.M.</serialNumber>
+   </environment>
+   <registry urn="urn:st:90429e37-e356-4081-a5ab-e4fc4b534eb9" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:bf33fab9-eb3c-4efd-bef6-e05b0bdd34ec</instance_urn>
+         <product_name>Java SE 7 Development Kit</product_name>
+         <product_version>1.7.0_17</product_version>
+         <product_urn>JSEZ9-007-ZZZZ</product_urn>
+         <product_parent_urn>urn:uuid:dc1704fe-264f-11dc-9482-080020a9ed93</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 7 (Java SE 7)</product_parent>
+         <product_defined_inst_id>id=1.7.0_17-b02 x86,dir=C:\Program Files (x86)\Java\jdk1.7.0_17\jre</product_defined_inst_id>
+         <product_vendor>Oracle Corporation</product_vendor>
+         <platform_arch>x86</platform_arch>
+         <timestamp>2015-04-17 02:23:57 GMT</timestamp>
+         <container>global</container>
+         <source>Windows JDK i586 installer</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>

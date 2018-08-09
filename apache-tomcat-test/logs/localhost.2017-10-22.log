@@ -1,0 +1,3 @@
+22-Oct-2017 15:10:14.039 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+22-Oct-2017 15:10:14.192 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+22-Oct-2017 15:10:17.506 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'cas'

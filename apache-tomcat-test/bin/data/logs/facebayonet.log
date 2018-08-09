@@ -1,0 +1,36 @@
+[INFO ] [09:22:13] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+[INFO ] [09:22:13] org.springframework.beans.factory.config.PropertyPlaceholderConfigurer - Loading properties file from class path resource [properties/mongodb.properties]
+[INFO ] [09:22:14] com.lts.job.manager.util.PropertyConfigUtil - get propertiesPath=properties/config.properties
+[INFO ] [09:22:14] com.lts.job.manager.util.PropertyConfigUtil - get url=file:/D:/apache-tomcat-8.0.23/webapps/FaceBayonet/WEB-INF/classes/properties/config.properties
+[INFO ] [09:22:14] org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c98cb9c: startup date [Tue Aug 18 09:22:14 CST 2015]; root of context hierarchy
+[INFO ] [09:22:14] com.lts.job.core.cluster.JobNode - 当前节点配置:{"clusterName":"defaultCluster","filePath":"C:\\Users\\admin/.lts/CLIENT/test_trade_TaskTracker/","identity":"8D5D29608883420AA84FDF4973F95BCE","invokeTimeoutMillis":6000,"jobInfoSavePath":"C:\\Users\\admin/.lts","listenPort":0,"nodeGroup":"test_trade_TaskTracker","nodeType":"CLIENT","workThreads":4,"zookeeperAddress":"10.0.10.144:2181"}
+[INFO ] [09:22:14] org.I0Itec.zkclient.ZkEventThread - Starting ZkClient event thread.
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:host.name=DESKTOP-AHSS1BQ
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.version=1.7.0_17
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.vendor=Oracle Corporation
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.home=C:\Program Files\Java\jdk1.7.0_17\jre
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.class.path=D:\apache-tomcat-8.0.23\bin\bootstrap.jar;D:\apache-tomcat-8.0.23\bin\tomcat-juli.jar
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.library.path=C:\Program Files\Java\jdk1.7.0_17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_17\bin;C:\Program Files\Java\jdk1.7.0_17\jre\bin;：D:\apache-tomcat-8.0.23\lib;D:\apache-tomcat-8.0.23\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Ruby200-x64\bin;C:\Ruby200-x64\bin;.
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.io.tmpdir=D:\apache-tomcat-8.0.23\temp
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:java.compiler=<NA>
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:os.name=Windows 8
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:os.arch=amd64
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:os.version=6.2
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:user.name=admin
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:user.home=C:\Users\admin
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Client environment:user.dir=D:\apache-tomcat-8.0.23\bin
+[INFO ] [09:22:14] org.apache.zookeeper.ZooKeeper - Initiating client connection, connectString=10.0.10.144:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@7ac85bb5
+[INFO ] [09:22:15] org.apache.zookeeper.ClientCnxn - Opening socket connection to server WIN-P0V9VO358FN/10.0.10.144:2181. Will not attempt to authenticate using SASL (unknown error)
+[INFO ] [09:22:15] org.apache.zookeeper.ClientCnxn - Socket connection established to WIN-P0V9VO358FN/10.0.10.144:2181, initiating session
+[INFO ] [09:22:15] org.apache.zookeeper.ClientCnxn - Session establishment complete on server WIN-P0V9VO358FN/10.0.10.144:2181, sessionid = 0x14f168a2ba300a5, negotiated timeout = 30000
+[INFO ] [09:22:15] org.I0Itec.zkclient.ZkClient - zookeeper state changed (SyncConnected)
+[INFO ] [09:22:15] com.lts.job.core.cluster.NodeManager - 添加节点Node{path='/LTS/defaultCluster/NODES/JOB_TRACKER/JOB_TRACKER:\\10.0.10.144:35002?group=jobTrackerGroup&threads=8&identity=1A95F4E5521947C2B2D7646E79FBB2DA&createTime=1439780288394&isAvailable=true&listenNodeTypes=CLIENT,TASK_TRACKER,JOB_TRACKER', isAvailable=true, nodeType=JOB_TRACKER, ip='10.0.10.144', port=35002, group='jobTrackerGroup', createTime=1439780288394, threads=8, identity='1A95F4E5521947C2B2D7646E79FBB2DA', listenNodeTypes=[CLIENT, TASK_TRACKER, JOB_TRACKER]}
+[INFO ] [09:22:15] com.lts.job.core.cluster.NodeManager - 添加节点Node{path='/LTS/defaultCluster/NODES/CLIENT/CLIENT:\\192.168.100.55?group=test_trade_TaskTracker&threads=4&identity=8D5D29608883420AA84FDF4973F95BCE&createTime=1439860934461&isAvailable=true&listenNodeTypes=JOB_TRACKER,CLIENT', isAvailable=true, nodeType=CLIENT, ip='192.168.100.55', port=null, group='test_trade_TaskTracker', createTime=1439860934461, threads=4, identity='8D5D29608883420AA84FDF4973F95BCE', listenNodeTypes=[JOB_TRACKER, CLIENT]}
+[INFO ] [09:22:15] com.lts.job.core.cluster.NodeManager - 添加节点Node{path='/LTS/defaultCluster/NODES/CLIENT/CLIENT:\\10.0.10.93?group=test_trade_TaskTracker&threads=8&identity=128917B7362141E19EDAA80974828D96&createTime=1439860623521&isAvailable=true&listenNodeTypes=JOB_TRACKER,CLIENT', isAvailable=true, nodeType=CLIENT, ip='10.0.10.93', port=null, group='test_trade_TaskTracker', createTime=1439860623521, threads=8, identity='128917B7362141E19EDAA80974828D96', listenNodeTypes=[JOB_TRACKER, CLIENT]}
+[INFO ] [09:22:15] com.lts.job.core.cluster.MasterElector - Master节点为:/LTS/defaultCluster/NODES/CLIENT/CLIENT:\\10.0.10.93?group=test_trade_TaskTracker&threads=8&identity=128917B7362141E19EDAA80974828D96&createTime=1439860623521&isAvailable=true&listenNodeTypes=JOB_TRACKER,CLIENT
+[INFO ] [09:22:15] com.lts.job.core.cluster.JobNode - 启动成功!
+[INFO ] [09:22:15] LTSRemoting - createChannel: begin to connect remote host[10.0.10.144:35002] asynchronously
+[INFO ] [09:22:15] LTSRemoting - NETTY CLIENT PIPELINE: CONNECT  UNKNOW => /10.0.10.144:35002
+[INFO ] [09:22:15] LTSRemoting - createChannel: connect remote host[10.0.10.144:35002] success, DefaultChannelPromise@6791d020(success)
+[INFO ] [09:22:16] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3007 ms

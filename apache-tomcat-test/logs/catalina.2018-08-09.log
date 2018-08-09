@@ -1,0 +1,45 @@
+09-Aug-2018 16:02:42.915 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+09-Aug-2018 16:02:42.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             G:\单点登录\dandiandenglu\HB_cas\JVM\jre7
+09-Aug-2018 16:02:42.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+09-Aug-2018 16:02:42.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Aug-2018 16:02:42.949 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test
+09-Aug-2018 16:02:42.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test
+09-Aug-2018 16:02:42.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\conf\logging.properties
+09-Aug-2018 16:02:42.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Aug-2018 16:02:42.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+09-Aug-2018 16:02:42.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test
+09-Aug-2018 16:02:42.953 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test
+09-Aug-2018 16:02:42.954 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\temp
+09-Aug-2018 16:02:42.964 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: G:\单点登录\dandiandenglu\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;D:\Git\insert\Git\cmd;.
+09-Aug-2018 16:02:43.319 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+09-Aug-2018 16:02:43.348 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Aug-2018 16:02:43.350 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8853"]
+09-Aug-2018 16:02:43.587 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Aug-2018 16:02:43.587 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+09-Aug-2018 16:02:43.589 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Aug-2018 16:02:43.589 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1285 ms
+09-Aug-2018 16:02:43.631 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+09-Aug-2018 16:02:43.631 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+09-Aug-2018 16:02:43.935 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\.idea
+09-Aug-2018 16:02:43.979 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\.idea has finished in 44 ms
+09-Aug-2018 16:02:43.980 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\cas
+09-Aug-2018 16:02:47.055 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2018 16:02:50.427 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\cas has finished in 6,447 ms
+09-Aug-2018 16:02:50.428 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\docs
+09-Aug-2018 16:02:50.448 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\docs has finished in 20 ms
+09-Aug-2018 16:02:50.449 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\examples
+09-Aug-2018 16:02:50.763 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\examples has finished in 314 ms
+09-Aug-2018 16:02:50.763 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\host-manager
+09-Aug-2018 16:02:50.786 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\host-manager has finished in 23 ms
+09-Aug-2018 16:02:50.787 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\manager
+09-Aug-2018 16:02:50.853 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\单点登录\dandiandenglu\HB_cas\apache-tomcat-test\webapps\manager has finished in 66 ms
+09-Aug-2018 16:02:50.869 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9880"]
+09-Aug-2018 16:02:50.875 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8853"]
+09-Aug-2018 16:02:50.876 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8909"]
+09-Aug-2018 16:02:50.877 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 7287 ms

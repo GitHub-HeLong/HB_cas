@@ -1,0 +1,299 @@
+04-Aug-2017 10:20:35.491 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Aug-2017 10:20:35.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+04-Aug-2017 10:20:35.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+04-Aug-2017 10:20:35.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+04-Aug-2017 10:20:35.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+04-Aug-2017 10:20:35.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+04-Aug-2017 10:20:35.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+04-Aug-2017 10:20:35.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7
+04-Aug-2017 10:20:35.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+04-Aug-2017 10:20:35.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2017 10:20:35.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:20:35.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:20:35.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\conf\logging.properties
+04-Aug-2017 10:20:35.513 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2017 10:20:35.513 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+04-Aug-2017 10:20:35.513 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:20:35.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:20:35.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\temp
+04-Aug-2017 10:20:35.523 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;.
+04-Aug-2017 10:20:35.703 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:20:35.729 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:20:35.732 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8843"]
+04-Aug-2017 10:20:35.902 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:20:35.902 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:20:35.904 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:20:35.904 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 824 ms
+04-Aug-2017 10:20:35.920 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Aug-2017 10:20:35.920 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+04-Aug-2017 10:20:36.166 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea
+04-Aug-2017 10:20:36.184 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea has finished in 18 ms
+04-Aug-2017 10:20:36.185 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas
+04-Aug-2017 10:20:38.900 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Aug-2017 10:20:42.099 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas has finished in 5,914 ms
+04-Aug-2017 10:20:42.100 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs
+04-Aug-2017 10:20:42.116 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs has finished in 16 ms
+04-Aug-2017 10:20:42.117 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples
+04-Aug-2017 10:20:42.405 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples has finished in 288 ms
+04-Aug-2017 10:20:42.405 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager
+04-Aug-2017 10:20:42.424 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager has finished in 19 ms
+04-Aug-2017 10:20:42.425 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager
+04-Aug-2017 10:20:42.443 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager has finished in 18 ms
+04-Aug-2017 10:20:42.447 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:20:42.453 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8843"]
+04-Aug-2017 10:20:42.454 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:20:42.455 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 6551 ms
+04-Aug-2017 10:26:00.054 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Aug-2017 10:26:00.068 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+04-Aug-2017 10:26:00.068 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+04-Aug-2017 10:26:00.068 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+04-Aug-2017 10:26:00.068 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+04-Aug-2017 10:26:00.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+04-Aug-2017 10:26:00.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+04-Aug-2017 10:26:00.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7
+04-Aug-2017 10:26:00.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+04-Aug-2017 10:26:00.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2017 10:26:00.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:26:00.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:26:00.071 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\conf\logging.properties
+04-Aug-2017 10:26:00.072 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2017 10:26:00.072 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+04-Aug-2017 10:26:00.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:26:00.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:26:00.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\temp
+04-Aug-2017 10:26:00.086 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;.
+04-Aug-2017 10:26:00.163 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:26:00.180 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:26:00.182 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:26:00.326 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:26:00.327 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:26:00.328 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:26:00.329 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 501 ms
+04-Aug-2017 10:26:00.344 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Aug-2017 10:26:00.344 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+04-Aug-2017 10:26:00.526 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea
+04-Aug-2017 10:26:00.544 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea has finished in 17 ms
+04-Aug-2017 10:26:00.545 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas
+04-Aug-2017 10:26:02.439 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Aug-2017 10:26:05.543 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas has finished in 4,998 ms
+04-Aug-2017 10:26:05.543 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs
+04-Aug-2017 10:26:05.561 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs has finished in 18 ms
+04-Aug-2017 10:26:05.561 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples
+04-Aug-2017 10:26:05.786 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples has finished in 225 ms
+04-Aug-2017 10:26:05.786 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager
+04-Aug-2017 10:26:05.805 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager has finished in 19 ms
+04-Aug-2017 10:26:05.805 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager
+04-Aug-2017 10:26:05.823 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager has finished in 18 ms
+04-Aug-2017 10:26:05.827 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:26:05.832 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:26:05.833 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:26:05.834 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5504 ms
+04-Aug-2017 10:27:32.110 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Aug-2017 10:27:32.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+04-Aug-2017 10:27:32.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+04-Aug-2017 10:27:32.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+04-Aug-2017 10:27:32.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+04-Aug-2017 10:27:32.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+04-Aug-2017 10:27:32.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+04-Aug-2017 10:27:32.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7
+04-Aug-2017 10:27:32.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+04-Aug-2017 10:27:32.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2017 10:27:32.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:32.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:32.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\conf\logging.properties
+04-Aug-2017 10:27:32.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2017 10:27:32.129 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+04-Aug-2017 10:27:32.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:32.131 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:32.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\temp
+04-Aug-2017 10:27:32.138 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;.
+04-Aug-2017 10:27:32.218 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:27:32.251 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:27:32.253 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:27:32.401 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:27:32.401 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:27:32.403 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:27:32.403 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 517 ms
+04-Aug-2017 10:27:32.418 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Aug-2017 10:27:32.418 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+04-Aug-2017 10:27:32.601 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea
+04-Aug-2017 10:27:32.617 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea has finished in 16 ms
+04-Aug-2017 10:27:32.618 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas
+04-Aug-2017 10:27:37.040 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Aug-2017 10:27:37.054 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+04-Aug-2017 10:27:37.054 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+04-Aug-2017 10:27:37.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+04-Aug-2017 10:27:37.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+04-Aug-2017 10:27:37.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+04-Aug-2017 10:27:37.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+04-Aug-2017 10:27:37.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7
+04-Aug-2017 10:27:37.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+04-Aug-2017 10:27:37.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2017 10:27:37.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:37.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:37.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\conf\logging.properties
+04-Aug-2017 10:27:37.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2017 10:27:37.058 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+04-Aug-2017 10:27:37.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:37.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:27:37.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\temp
+04-Aug-2017 10:27:37.072 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;.
+04-Aug-2017 10:27:37.149 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:27:37.166 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:27:37.168 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:27:37.319 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:27:37.319 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:27:37.321 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:27:37.321 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 508 ms
+04-Aug-2017 10:27:37.336 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Aug-2017 10:27:37.336 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+04-Aug-2017 10:27:37.496 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea
+04-Aug-2017 10:27:37.539 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea has finished in 42 ms
+04-Aug-2017 10:27:37.539 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas
+04-Aug-2017 10:27:39.417 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Aug-2017 10:27:49.207 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas has finished in 11,668 ms
+04-Aug-2017 10:27:49.208 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs
+04-Aug-2017 10:27:49.225 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs has finished in 17 ms
+04-Aug-2017 10:27:49.226 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples
+04-Aug-2017 10:27:49.448 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples has finished in 222 ms
+04-Aug-2017 10:27:49.448 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager
+04-Aug-2017 10:27:49.467 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager has finished in 19 ms
+04-Aug-2017 10:27:49.468 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager
+04-Aug-2017 10:27:49.485 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager has finished in 17 ms
+04-Aug-2017 10:27:49.489 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:27:49.494 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:27:49.504 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:27:49.505 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 12184 ms
+04-Aug-2017 10:28:31.431 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:28:31.497 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:28:31.547 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:28:31.597 INFO [Thread-6] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+04-Aug-2017 10:28:31.621 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [FileWatchdog] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Thread.sleep(Native Method)
+ org.apache.log4j.helpers.FileWatchdog.run(FileWatchdog.java:104)
+04-Aug-2017 10:28:31.621 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.622 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.622 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.632 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.632 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.647 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.647 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.649 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-8] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.649 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-9] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.652 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cas] appears to have started a thread named [scheduler_Worker-10] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:519)
+04-Aug-2017 10:28:31.665 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:28:31.697 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:28:31.707 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:28:31.708 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:28:31.708 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:28:31.708 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:28:52.919 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Aug-2017 10:28:52.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+04-Aug-2017 10:28:52.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+04-Aug-2017 10:28:52.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+04-Aug-2017 10:28:52.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+04-Aug-2017 10:28:52.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+04-Aug-2017 10:28:52.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+04-Aug-2017 10:28:52.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7
+04-Aug-2017 10:28:52.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+04-Aug-2017 10:28:52.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2017 10:28:52.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:28:52.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:28:52.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\conf\logging.properties
+04-Aug-2017 10:28:52.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2017 10:28:52.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+04-Aug-2017 10:28:52.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:28:52.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test
+04-Aug-2017 10:28:52.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\temp
+04-Aug-2017 10:28:52.954 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;.
+04-Aug-2017 10:28:53.029 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:28:53.046 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:28:53.048 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:28:53.200 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:28:53.201 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:28:53.202 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:28:53.203 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 511 ms
+04-Aug-2017 10:28:53.218 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Aug-2017 10:28:53.218 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+04-Aug-2017 10:28:53.407 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea
+04-Aug-2017 10:28:53.424 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\.idea has finished in 17 ms
+04-Aug-2017 10:28:53.425 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas
+04-Aug-2017 10:28:55.349 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Aug-2017 10:28:58.455 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\cas has finished in 5,030 ms
+04-Aug-2017 10:28:58.456 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs
+04-Aug-2017 10:28:58.475 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\docs has finished in 19 ms
+04-Aug-2017 10:28:58.475 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples
+04-Aug-2017 10:28:58.706 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\examples has finished in 231 ms
+04-Aug-2017 10:28:58.707 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager
+04-Aug-2017 10:28:58.728 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\host-manager has finished in 21 ms
+04-Aug-2017 10:28:58.728 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager
+04-Aug-2017 10:28:58.746 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\单点登录系统开源代码\HB_cas\apache-tomcat-test\webapps\manager has finished in 18 ms
+04-Aug-2017 10:28:58.749 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:28:58.754 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:28:58.755 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:28:58.756 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5553 ms
+04-Aug-2017 10:38:04.347 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Aug-2017 10:38:04.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.23
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 19 2015 14:58:38 UTC
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.23.0
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\ywhl\Desktop\DAN\HB_cas\JVM\jre7
+04-Aug-2017 10:38:04.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_55-b14
+04-Aug-2017 10:38:04.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2017 10:38:04.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test
+04-Aug-2017 10:38:04.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test
+04-Aug-2017 10:38:04.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\conf\logging.properties
+04-Aug-2017 10:38:04.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2017 10:38:04.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=\endorsed
+04-Aug-2017 10:38:04.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test
+04-Aug-2017 10:38:04.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test
+04-Aug-2017 10:38:04.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\temp
+04-Aug-2017 10:38:04.376 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\ywhl\Desktop\DAN\HB_cas\JVM\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_17\jre\bin;D:\maven\apache-maven-3.3.9\bin;F:\MongoDB\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\ywhl\Desktop\puttyGet\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;.
+04-Aug-2017 10:38:04.451 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:38:04.469 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:38:04.472 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:38:04.627 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:38:04.628 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:38:04.629 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Aug-2017 10:38:04.629 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 503 ms
+04-Aug-2017 10:38:04.644 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Aug-2017 10:38:04.645 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.23
+04-Aug-2017 10:38:04.804 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\.idea
+04-Aug-2017 10:38:04.845 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\.idea has finished in 41 ms
+04-Aug-2017 10:38:04.845 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\cas
+04-Aug-2017 10:38:06.742 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Aug-2017 10:38:09.807 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\cas has finished in 4,962 ms
+04-Aug-2017 10:38:09.807 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\docs
+04-Aug-2017 10:38:09.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\docs has finished in 17 ms
+04-Aug-2017 10:38:09.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\examples
+04-Aug-2017 10:38:10.046 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\examples has finished in 221 ms
+04-Aug-2017 10:38:10.053 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\host-manager
+04-Aug-2017 10:38:10.072 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\host-manager has finished in 19 ms
+04-Aug-2017 10:38:10.072 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\manager
+04-Aug-2017 10:38:10.093 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\ywhl\Desktop\DAN\HB_cas\apache-tomcat-test\webapps\manager has finished in 20 ms
+04-Aug-2017 10:38:10.096 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9880"]
+04-Aug-2017 10:38:10.101 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8853"]
+04-Aug-2017 10:38:10.102 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8909"]
+04-Aug-2017 10:38:10.103 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5473 ms
