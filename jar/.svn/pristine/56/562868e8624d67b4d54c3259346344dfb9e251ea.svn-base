@@ -1,0 +1,6 @@
+org\jasig\cas\adaptors\jdbc\SearchModeSearchDatabaseAuthenticationHandler.class
+org\jasig\cas\adaptors\jdbc\QueryDatabaseAuthenticationHandler.class
+org\jasig\cas\adaptors\mongo\AbstractMongoUsernamePasswordAuthenticationHandler.class
+org\jasig\cas\adaptors\jdbc\BindModeSearchDatabaseAuthenticationHandler.class
+org\jasig\cas\adaptors\mongo\QueryMongoDatabaseAuthenticationHandler.class
+org\jasig\cas\adaptors\jdbc\AbstractJdbcUsernamePasswordAuthenticationHandler.class

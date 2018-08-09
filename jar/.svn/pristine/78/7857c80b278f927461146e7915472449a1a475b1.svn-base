@@ -1,0 +1,11 @@
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\mongo\AbstractMongoLoginLogHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\jdbc\JdbcDatabaseLoginLogHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\jdbc\QueryDatabaseAuthenticationHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\jdbc\AbstractJdbcLoginLogHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\base\AbstractLoginLogHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\jdbc\BindModeSearchDatabaseAuthenticationHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\jdbc\AbstractJdbcUsernamePasswordAuthenticationHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\mongo\AbstractMongoUsernamePasswordAuthenticationHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\mongo\QueryMongoDatabaseAuthenticationHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\jdbc\SearchModeSearchDatabaseAuthenticationHandler.java
+D:\hbaf\CAS\cas-server-support-jdbc\src\main\java\org\jasig\cas\adaptors\mongo\MongoDatabaseLoginLogHandler.java
